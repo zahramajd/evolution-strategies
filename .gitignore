@@ -1,0 +1,9 @@
+*.png
+env
+.DS_Store
+*.pdf
+*.pages
+tmp.py
+*.json
+*.zip
+ZahraMajdabadi-97443241-v1
